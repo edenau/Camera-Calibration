@@ -1,3 +1,3 @@
 # [Archive] A camera calibration model
 
-The project has completed and the codes are archived.
+***Interested Reader is referred the relevant page on my [personal webpage](https://edenau.github.io/camera-calibration/).***
